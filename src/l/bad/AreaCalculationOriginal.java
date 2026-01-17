@@ -1,5 +1,4 @@
 package l.bad;
-
 public class AreaCalculationOriginal {
     public static void main(String[] args) {
         Rectangle rectangle = new Square();
@@ -26,7 +25,7 @@ class RectangleOriginal {
     }
 }
 
-class SquareOriginal extends RectangleOriginal {
+class SquareOriginal extends Rectangle {
     @Override
     public void setWidth(int width) {
         super.setWidth(width);
