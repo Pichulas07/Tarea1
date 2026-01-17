@@ -1,9 +1,6 @@
 package o.fixed;
-
-import java.util.List; //No se impotaba la clase list
-
 public class ShapeCalculatorOriginal {
-    public double calculateTotalArea(List<Shape> shapes) {
+    public double calculateTotalArea(Shape[] shapes) {
 
         /*Se elimina la estructura if ya que como todas las figuras
         poseen area, este metodo se crea de manera abstracta en 
