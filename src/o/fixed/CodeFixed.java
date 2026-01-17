@@ -1,5 +1,5 @@
-package s.fixed;
+package o.fixed;
 
 public class CodeFixed {
-
+    
 }
