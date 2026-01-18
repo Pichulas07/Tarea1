@@ -1,10 +1,10 @@
 package s.fixed;
 
-public class CodeFixed {
+public class UserDataManager {
     private String username;
     private String password; 
 
-    public CodeFixed(String username, String password) {
+    public UserDataManager(String username, String password) {
         this.username = username;
         this.password = password;
     }

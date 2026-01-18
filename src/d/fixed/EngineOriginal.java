@@ -1,7 +1,8 @@
 package d.fixed;
 
-public class EngineOriginal {
-    public void start(){
-        System.out.println("Engine started.");
+public class EngineOriginal implements Engine{
+    @Override
+    public void start() {
+        System.out.println("Engine started");;
     }
 }
