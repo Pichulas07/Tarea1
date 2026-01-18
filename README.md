@@ -1,6 +1,14 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Curso: IF0004 - Desarrollo de Software II
+Tarea #1
+Diego Zamora Arce C5L139
+Rafael Ángel Porras Rakow C5I449
+Jered Isaac Arias Ávila C5C706
+
+Nota: La explicación de los errores y las justificaciones de las refactorizaciones están en las clases Main de cada carpeta donde está codeFixed dentro con comentarios.
+Link GitHub: 
+
 
 ## Folder Structure
 
