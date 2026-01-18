@@ -1,6 +1,7 @@
 package o.bad;
 
 public class ShapeCalculatorOriginal {
+
     public double calculateTotalArea(List<Shape> shapes) {
         double totalArea = 0;
         for (Shape shape : shapes) {
