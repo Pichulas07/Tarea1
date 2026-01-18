@@ -11,7 +11,7 @@ Rafael Ángel Porras Rakow C5I449
 Jered Isaac Arias Ávila C5C706
 
 Nota: La explicación de los errores y las justificaciones de las refactorizaciones están en las clases Main de cada carpeta donde está codeFixed dentro con comentarios.
-Link GitHub: 
+Link GitHub: https://github.com/Pichulas07/Tarea1
 
 
 ## Folder Structure
