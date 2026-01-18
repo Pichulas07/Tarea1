@@ -2,6 +2,7 @@ package o.fixed;
 
 public class Triangle extends Shape {
     
+    //Atributos
     private double base;
     private double height;
 
